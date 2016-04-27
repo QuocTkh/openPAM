@@ -1,0 +1,2 @@
+import_path=/Dev
+file_path=D:\\DevOps\\ITPAM_Deploy_and_Test\\PAM_module\\sd_inc_assign.xml
